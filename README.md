@@ -1,5 +1,5 @@
 ### 3D User 
-#### B3D, UE5
+#### Blender, Unreal Engine, Adobe, Python
 ## 
 </br>
 
